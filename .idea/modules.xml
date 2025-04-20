@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab10/ExecutorService/ExecutorService.iml" filepath="$PROJECT_DIR$/lab10/ExecutorService/ExecutorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10/ForkJoinFindMax/ForkJoinFindMax.iml" filepath="$PROJECT_DIR$/lab10/ForkJoinFindMax/ForkJoinFindMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-OOP-main.iml" filepath="$PROJECT_DIR$/Java-OOP-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SIS/SIS.iml" filepath="$PROJECT_DIR$/SIS/SIS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3/StringsPractice02/StringsPractice02.iml" filepath="$PROJECT_DIR$/lab3/StringsPractice02/StringsPractice02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3/StringsPractice03/StringsPractice03.iml" filepath="$PROJECT_DIR$/lab3/StringsPractice03/StringsPractice03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7/lab7.iml" filepath="$PROJECT_DIR$/lab7/lab7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9/lab9.iml" filepath="$PROJECT_DIR$/lab9/lab9.iml" />
+    </modules>
+  </component>
+</project>
